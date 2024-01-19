@@ -8,9 +8,7 @@ This project is an Employee Management System built using Python. It is designed
 
  Features
 
-- Employee Record Management**: Add, update, delete, and view employee records.
-- Search Functionality**: Search for employees based on various criteria such as name, department, etc.
-- Report Generation**: Generate reports on employee data, such as department-wise employee count, average salary, etc.
+- Employee Record Management: Add, update, delete, and view employee records.
 
  Technologies Used
 
