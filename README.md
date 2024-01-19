@@ -34,4 +34,4 @@ This project is an Employee Management System built using Python. It is designed
 Please replace the placeholders with the actual details of your project. Remember, a good README file helps others understand your project, its purpose, how it works, and how they can contribute or learn from it. Good luck with your internship! 😊
 
 
-<img src="employee.png" alt="Description of the image" width="20" height="20">
+<img src="employee.png" alt="Description of the image" width="500" height="500">
